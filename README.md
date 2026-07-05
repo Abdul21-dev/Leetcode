@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Abdul21-dev/Leetcode/tree/master/0771-jewels-and-stones) |
+## Array
+|  |
+| ------- |
+| [0896-monotonic-array](https://github.com/Abdul21-dev/Leetcode/tree/master/0896-monotonic-array) |
 <!---LeetCode Topics End-->
